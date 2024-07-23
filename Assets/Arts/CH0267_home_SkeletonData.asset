@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+  m_Name: CH0267_home_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 35df9f5b80ebb39498b4018fbd333ec8, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: c76da07f2ee096347b910277a38d05bb, type: 3}
+  isUpgradingBlendModeMaterials: 0
+  blendModeMaterials:
+    requiresBlendModeMaterials: 1
+    applyAdditiveMaterial: 1
+    additiveMaterials:
+    - pageName: CH0267_home4.png
+      material: {fileID: 2100000, guid: a9571920392c87142add9f2bf7d9d547, type: 2}
+    - pageName: CH0267_home.png
+      material: {fileID: 2100000, guid: 77ab2560efbf6eb46a90b7cd59678f8b, type: 2}
+    - pageName: CH0267_home5.png
+      material: {fileID: 2100000, guid: 31b70dbe446896543b4e00c819deab81, type: 2}
+    - pageName: CH0267_home3.png
+      material: {fileID: 2100000, guid: 169694b817eb918488c88baa54182899, type: 2}
+    - pageName: CH0267_home2.png
+      material: {fileID: 2100000, guid: bf625c7807669b8449abcc1787adc48b, type: 2}
+    multiplyMaterials: []
+    screenMaterials: []
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0.2
+  controller: {fileID: 0}
